@@ -1,2 +1,2 @@
 # backend-java
-Repositório de projetos em java Curso Ebac
+Repositório de projetos em java - Curso Ebac
