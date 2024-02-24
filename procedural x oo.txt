@@ -1,0 +1,5 @@
+programação procedural
+Programação estruturada é uma forma de programação onde se pode reduzir os códigos a apenas três estruturas: sequência, decisão e  repetição. Conforme o código cresce, é possivel criar modulos, o que orienta os programadores para a criação de estruturas simples, usando as sub-rotinas e as funções. 
+
+Programação orientada a objetos
+Substituiu as técnicas de programação procedimental. Identifica os objetos e as operações relevantes do mundo real. Pode ser dividido em camadas. A menor unidade é a classe. Relacionamentos entre classe ocorre por interação entre objetos. 

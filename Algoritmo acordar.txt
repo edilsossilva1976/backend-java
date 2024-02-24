@@ -1,0 +1,16 @@
+Algoritmo acordar
+
+1. INICIO
+2. Se o despertador tocar:
+   a. Desligar o despertador
+   b. Abrir os olhos
+   c. Sentar-se na cama
+3. Caso contrario:
+   a. Continuar dormindo
+4. Levantar-se da cama
+5. Espreguiçar-se
+6. Ir ao banheiro
+7. Lavar o rosto
+8. Escovar os dentes
+9. Ir à cozinha para beber água
+10. FIM
